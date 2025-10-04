@@ -20,7 +20,7 @@ export function Navbar() {
     {
       name: 'Home',
       href: '/',
-      ariaLabel: 'Go to homepage'
+      ariaLabel: ' homepage'
     },
     {
       name: 'Courses',
