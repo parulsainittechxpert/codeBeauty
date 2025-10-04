@@ -8,7 +8,7 @@ import { Welcome } from "@/components/sections/welcome";
 
 export default function Home() {
   return (
-    <main className="container mx-auto ">
+    <main className="container mx-auto p ">
        <SubNavbar />
        <Welcome />
       <Popular />
